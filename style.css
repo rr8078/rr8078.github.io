@@ -5,10 +5,10 @@ html,body {
 	padding: 0;
 }
 body {
-    color: #FFFFCC;
+    color: #000066;
     font-size: 12px;
     font-family:"メイリオ",Meiryo, "ＭＳ Ｐゴシック", Hiragino Kaku Gothic Pro, Osaka, Verdana,sans-selif;
-    background-color: #121121;
+    background-color: #FFFFCC;
 }
 
 .msg-body pre {
