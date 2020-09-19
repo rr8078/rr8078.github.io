@@ -1,0 +1,70 @@
+/* common */
+
+html,body {
+	margin: 0;
+	padding: 0;
+}
+body {
+    color: #0D004C;
+    font-size: 12px;
+    font-family:"メイリオ",Meiryo, "ＭＳ Ｐゴシック", Hiragino Kaku Gothic Pro, Osaka, Verdana,sans-selif;
+    background-color: #121121;
+}
+
+.msg-body pre {
+ width: 420px;
+}
+
+.msg-body blockquote {
+ width: 420px;
+}
+
+pre {
+	margin: 1em;
+	padding: 1em;
+	border: 1px dashed #4873CE;
+	width: 420px;
+	font-size: 12px;
+}
+
+blockquote {
+	margin: 1em;
+	padding: 1em;
+	background-color: #4873CE;
+	color: #0D004C;
+	width: 420px;
+}
+p {
+	text-indent: 1em;
+	line-height: 1.7em;
+}
+textarea {
+    font-family:"メイリオ",Meiryo, "ＭＳ Ｐゴシック", Hiragino Kaku Gothic Pro, Osaka, Verdana,sans-selif;
+}
+
+article h1 {
+	border-bottom:none;
+	border-top:none;
+	border-left:solid;
+	border-right:solid;
+	border-color:#004BA9;
+}
+
+article h2 {
+	border-bottom:none;
+	border-top:none;
+	border-left:solid;
+	border-right:solid;
+	border-color:#004BA9;
+}
+
+article h3 {
+	border-bottom:none;
+	border-top:none;
+	border-left:solid;
+	border-right:solid;
+	border-color:#004BA9;
+}
+
+/* end of stylesheet */
+
