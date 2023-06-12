@@ -8,6 +8,12 @@ body {
     color: #000066;
     font-size: 12px;
     font-family:"メイリオ",Meiryo, "ＭＳ Ｐゴシック", Hiragino Kaku Gothic Pro, Osaka, Verdana,sans-selif;
+    background-color: white;
+}
+body header {
+    background-color: #FFFFCC;
+}
+body article {
     background-color: #FFFFCC;
 }
 
@@ -64,6 +70,21 @@ article h3 {
 	border-left:solid;
 	border-right:solid;
 	border-color:#004BA9;
+}
+
+h3.content {
+	background-color: #70AD47;
+	color: white;
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div.content {
+	background-color: #E2EFDA;
+	width: 95%;
+	margin-right: auto;
+	margin-left: auto;
 }
 
 /* end of stylesheet */
